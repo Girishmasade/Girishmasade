@@ -20,7 +20,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-👋 Hi! I'm **Girish Masade**, a passionate **Full Stack Developer** from **Mumbai, Maharashtra 🇮🇳**
+👋 Hi! I'm **Girish Masade**, a passionate **Full Stack Developer** from **Bhayandar, Maharashtra 🇮🇳**
 
 🚀 I specialize in building **end-to-end web applications** using the **MERN stack** and modern tools like **Next.js** and **TypeScript** — from polished UIs to robust backend APIs.
 
@@ -80,8 +80,80 @@
 <tr>
 <td width="50%">
 
+### 💰 Personal Finance Tracking System
+> A full-stack MERN application to track income, expenses, budgets and financial goals with an intuitive dashboard.
+
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+
+- ✅ Income & expense tracking with categories
+- ✅ Budget goals & spending analytics
+- ✅ Interactive charts & financial dashboard
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/personal-finance-tracking-system)
+
+</td>
+<td width="50%">
+
+### ✅ Task Management System
+> A full-stack productivity app to create, organize, assign and track tasks with real-time status updates.
+
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+- ✅ Create, assign & prioritize tasks
+- ✅ Status tracking — To Do / In Progress / Done
+- ✅ Clean MERN stack full-stack architecture
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/task-management-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💪 React Fitness App
+> A modern fitness web app to browse exercises by category and muscle group, built with React, TypeScript & Tailwind.
+
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+- ✅ Exercise search & muscle group filter
+- ✅ Category-based browsing UI
+- ✅ Fully typed with TypeScript + Vite
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/react-fitness-typescript-project)
+
+</td>
+<td width="50%">
+
+### 📝 MERN Blog Project
+> A full-stack blogging platform with user authentication, rich post creation, commenting and a responsive reader UI.
+
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+
+- ✅ User auth — register, login, JWT sessions
+- ✅ Create, edit & delete blog posts
+- ✅ Comment system & responsive reader UI
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Mern-Blog-Project)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🎵 Learning Music Platform
-> A full-featured music learning platform with curated lessons, intuitive navigation, and a clean modern UI built with Next.js.
+> A full-featured music learning platform with curated lessons, intuitive navigation & clean Next.js UI.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -89,7 +161,7 @@
 
 - ✅ Browse & explore music courses
 - ✅ Responsive, animated UI
-- ✅ Built fully in TypeScript
+- ✅ Built fully in TypeScript + Next.js
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Learning-Music-Website-Nextjs)
 
@@ -97,7 +169,7 @@
 <td width="50%">
 
 ### 🔐 Next.js Auth System
-> A complete, production-ready authentication system — JWT login, registration, protected routes and session management.
+> A complete, production-ready authentication system — JWT login, registration & protected routes.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -108,73 +180,6 @@
 - ✅ Clean full-stack architecture
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/nextjs-auth-system)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💪 React Fitness App
-> A modern fitness web app built with React, TypeScript, and Tailwind — browse exercises by category, muscle group, and more.
-
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- ✅ Exercise search & category filter
-- ✅ Muscle group visualizer
-- ✅ Fully typed with TypeScript + Vite
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/react-fitness-typescript-project)
-
-</td>
-<td width="50%">
-
-### 💪 Gym React Website
-> A sleek, responsive gym landing page built with React — smooth animations, service sections, and call-to-actions.
-
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-- ✅ Fully responsive across devices
-- ✅ Smooth scroll & CSS animations
-- ✅ Clean component-based structure
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Gym-React-Website)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧑‍💼 Portfolio — v1
-> Personal portfolio built with React, Vite & Ant Design — showcasing projects, skills, and experience with a professional layout.
-
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
-
-- ✅ Projects, skills & experience showcase
-- ✅ Responsive & fast with Vite
-- ✅ Live on Netlify ⭐ 1 star
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Girish-s-Portfolio)
-[![Live](https://img.shields.io/badge/Live%20Demo-A78BFA?style=for-the-badge&logo=netlify&logoColor=white)](https://girishmasade.netlify.app)
-
-</td>
-<td width="50%">
-
-### 🧑‍💼 Portfolio — v2
-> A refreshed portfolio built entirely with Next.js and TypeScript — faster, sleeker, and production-ready.
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-- ✅ Rebuilt with Next.js for better SEO
-- ✅ Full TypeScript codebase
-- ✅ Optimized performance & routing
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/girish-portfolio)
 [![All Repos](https://img.shields.io/badge/All%20Repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmasade?tab=repositories)
 
 </td>
