@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/girish-masade)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GirishMasade)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://girishmasade.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://girishmasade-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmasade)
 [![Profile Views](https://komarev.com/ghpvc/?username=Girishmasade&label=Profile%20Views&color=A78BFA&style=for-the-badge)](https://github.com/Girishmasade)
 
@@ -26,7 +26,7 @@
 
 💡 I love turning ideas into products — clean architecture, great UX, and scalable systems are my jam.
 
-🌐 Check out my work: [**girishmasade.netlify.app**](https://girishmasade.netlify.app)
+🌐 Check out my work: [**Portfolio**](https://girishmasade-portfolio.vercel.app)
 
 <br/>
 
@@ -218,7 +218,7 @@
   <img src="https://img.shields.io/badge/Twitter-Say%20hello-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://girishmasade.netlify.app">
+<a href="https://girishmasade-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-%23A78BFA?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 &nbsp;
