@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Girish%20Masade%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20%23devCoder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%2B+TypeScript+Advocate+%E2%9A%A1;Next.js+%2B+React+Enthusiast+%F0%9F%94%A5;Building+scalable+web+apps+%F0%9F%8C%90;Always+learning%2C+always+shipping+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
@@ -20,66 +18,25 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const girish = {
-  name:       "Girish Masade",
-  role:       "Full Stack Developer",
-  tag:        "#devCoder",
-  location:   "Bhayandar, Maharashtra, India 🇮🇳",
-  portfolio:  "https://girishmasade.netlify.app",
-  focus:      ["MERN Stack", "Next.js", "TypeScript", "Scalable Apps"],
-  currentlyBuilding: "A SaaS Web App 🚀",
-  funFact:    "I turn chai ☕ into clean TypeScript code",
-  openTo:     ["Collaborations", "Freelance Projects", "Full-time Roles"],
-};
-```
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+👋 Hi! I'm **Girish Masade**, a passionate **Full Stack Developer** from **Bhayandar, Maharashtra 🇮🇳**
 
-## 🚧 Currently Building — SaaS Web App
+🚀 I specialize in building **end-to-end web applications** using the **MERN stack** and modern tools like **Next.js** and **TypeScript** — from polished UIs to robust backend APIs.
 
-> *Something exciting is in progress — stay tuned!* 🔥
+💡 I love turning ideas into products — clean architecture, great UX, and scalable systems are my jam.
 
-<table>
-<tr>
-<td width="60%">
+🌐 Check out my work: [**girishmasade.netlify.app**](https://girishmasade.netlify.app)
 
-### 🔨 SaaS Platform *(In Development)*
+<br/>
 
-A modern **full-stack SaaS web application** built for speed, scale, and great UX.
-
-**What's being built:**
-- 🔐 JWT Auth with role-based access control
-- 📊 Real-time dashboard & analytics
-- 💳 Subscription & billing integration
-- 🔴 Redis caching for blazing fast API responses
-- 🔔 Real-time notifications via WebSockets
-
-**Stack:** `Next.js` · `Node.js` · `TypeScript` · `PostgreSQL` · `Redis` · `MongoDB`
-
-![Progress](https://img.shields.io/badge/Progress-45%25-A78BFA?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-61DAFB?style=flat-square)
-
-</td>
-<td width="40%" align="center">
-
-```
-📁 saas-platform/
-├── 📂 apps/
-│   ├── 🌐 web   → Next.js
-│   └── ⚙️  api   → Node + Express
-├── 📂 packages/
-│   ├── 🎨 ui
-│   ├── 🗄️  db    → Prisma
-│   ├── 🔴 cache  → Redis
-│   └── 📦 types  → TypeScript
-└── 🐳 docker-compose.yml
-```
-
-</td>
-</tr>
-</table>
+| 🔭 Currently Building | A SaaS Web App with Next.js + Node.js + Redis |
+|---|---|
+| 🌱 Learning | System Design, Redis Caching, WebSockets |
+| 💬 Ask Me About | React, Next.js, Node.js, MongoDB, TypeScript |
+| ⚡ Fun Fact | I turn ☕ chai into clean TypeScript code |
+| 📫 Reach Me | girishmasade@gmail.com |
+| 🤝 Open To | Collaborations, Freelance & Full-time Roles |
 
 ---
 
@@ -102,13 +59,11 @@ A modern **full-stack SaaS web application** built for speed, scale, and great U
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 Tools & DevOps
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -126,14 +81,15 @@ A modern **full-stack SaaS web application** built for speed, scale, and great U
 <td width="50%">
 
 ### 🎵 Learning Music Platform
-> A full-featured music learning platform with curated lessons and interactive UI.
+> A full-featured music learning platform with curated lessons, intuitive navigation, and a clean modern UI built with Next.js.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- ✅ Browse music courses & lessons
-- ✅ Clean, responsive UI with Next.js
-- ✅ TypeScript throughout the codebase
+- ✅ Browse & explore music courses
+- ✅ Responsive, animated UI
+- ✅ Built fully in TypeScript
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Learning-Music-Website-Nextjs)
 
@@ -141,14 +97,15 @@ A modern **full-stack SaaS web application** built for speed, scale, and great U
 <td width="50%">
 
 ### 🔐 Next.js Auth System
-> A complete, production-ready authentication system built with Next.js.
+> A complete, production-ready authentication system — JWT login, registration, protected routes and session management.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
 - ✅ JWT-based secure authentication
-- ✅ Sign up, login & protected routes
-- ✅ Full TypeScript support
+- ✅ Protected routes & role guards
+- ✅ Clean full-stack architecture
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/nextjs-auth-system)
 
@@ -157,34 +114,68 @@ A modern **full-stack SaaS web application** built for speed, scale, and great U
 <tr>
 <td width="50%">
 
-### 💪 Gym React Website
-> A modern, responsive gym website with sleek design and smooth UX.
+### 💪 React Fitness App
+> A modern fitness web app built with React, TypeScript, and Tailwind — browse exercises by category, muscle group, and more.
 
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- ✅ Responsive across all devices
-- ✅ Smooth scrolling & animations
-- ✅ Clean component architecture
+- ✅ Exercise search & category filter
+- ✅ Muscle group visualizer
+- ✅ Fully typed with TypeScript + Vite
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Gym-React-Website)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/react-fitness-typescript-project)
 
 </td>
 <td width="50%">
 
-### 🧑‍💼 Portfolio Website
-> Personal portfolio built with React, Vite & Ant Design showcasing skills & projects.
+### 💪 Gym React Website
+> A sleek, responsive gym landing page built with React — smooth animations, service sections, and call-to-actions.
+
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- ✅ Fully responsive across devices
+- ✅ Smooth scroll & CSS animations
+- ✅ Clean component-based structure
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Gym-React-Website)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧑‍💼 Portfolio — v1
+> Personal portfolio built with React, Vite & Ant Design — showcasing projects, skills, and experience with a professional layout.
 
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
 
-- ✅ Professional portfolio layout
-- ✅ Projects, skills & experience
-- ✅ Live on Netlify 🚀
+- ✅ Projects, skills & experience showcase
+- ✅ Responsive & fast with Vite
+- ✅ Live on Netlify ⭐ 1 star
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/Girish-s-Portfolio)
 [![Live](https://img.shields.io/badge/Live%20Demo-A78BFA?style=for-the-badge&logo=netlify&logoColor=white)](https://girishmasade.netlify.app)
+
+</td>
+<td width="50%">
+
+### 🧑‍💼 Portfolio — v2
+> A refreshed portfolio built entirely with Next.js and TypeScript — faster, sleeker, and production-ready.
+
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+- ✅ Rebuilt with Next.js for better SEO
+- ✅ Full TypeScript codebase
+- ✅ Optimized performance & routing
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Girishmasade/girish-portfolio)
+[![All Repos](https://img.shields.io/badge/All%20Repos-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girishmasade?tab=repositories)
 
 </td>
 </tr>
@@ -207,14 +198,6 @@ A modern **full-stack SaaS web application** built for speed, scale, and great U
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Girishmasade&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" alt="Contribution Graph" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Girishmasade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -245,5 +228,4 @@ A modern **full-stack SaaS web application** built for speed, scale, and great U
 
 </div>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
