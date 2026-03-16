@@ -20,7 +20,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-👋 Hi! I'm **Girish Masade**, a passionate **Full Stack Developer** from **Bhayandar, Maharashtra 🇮🇳**
+👋 Hi! I'm **Girish Masade**, a passionate **Full Stack Developer** from **Mumbai, Maharashtra 🇮🇳**
 
 🚀 I specialize in building **end-to-end web applications** using the **MERN stack** and modern tools like **Next.js** and **TypeScript** — from polished UIs to robust backend APIs.
 
