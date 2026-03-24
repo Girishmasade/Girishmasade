@@ -34,7 +34,7 @@
 |---|---|
 | 🌱 Learning | System Design, Redis Caching, WebSockets |
 | 💬 Ask Me About | React, Next.js, Node.js, MongoDB, TypeScript |
-| ⚡ Fun Fact | I turn ☕ chai into clean TypeScript code |
+| ⚡ Fun Fact | I don’t just drink ☕ chai — I deploy ideas. |
 | 📫 Reach Me | girishmasade@gmail.com |
 | 🤝 Open To | Collaborations, Freelance & Full-time Roles |
 
