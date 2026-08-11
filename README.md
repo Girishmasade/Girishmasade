@@ -186,7 +186,7 @@ I follow these principles in every project:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Girishmasade&show_icons=true&hide_border=true&bg_color=0C0C0D&title_color=D7A85B&icon_color=B98746&text_color=E7E0D5&rank_icon=github" alt="GitHub statistics" />
 
@@ -194,7 +194,7 @@ I follow these principles in every project:
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girishmasade&hide_border=true&background=0C0C0D&ring=D7A85B&fire=B98746&currStreakLabel=D7A85B&sideLabels=E7E0D5&dates=8B857C&currStreakNum=F1E5CF&sideNums=F1E5CF" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girishmasade&hide_border=true&background=0C0C0D&ring=D7A85B&fire=B98746&currStreakLabel=D7A85B&sideLabels=E7E0D5&dates=8B857C&currStreakNum=F1E5CF&sideNums=F1E5CF" alt="GitHub streak" /> -->
 
 <br />
 
