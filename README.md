@@ -2,130 +2,104 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C0D,45:171513,100:8A6335&height=220&section=header&text=Girish%20Masade&fontSize=52&fontColor=E7C27A&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20%23devCoder&descAlignY=60&descSize=18&descColor=F1E5CF&animation=fadeIn" />
 
-Building clean interfaces, reliable APIs, and products that solve real problems.
+### Architecting scalable web applications with clean code, strong design, and real-world impact.
 
-<p>
+<div>
   <a href="https://girishmasade-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-B98746?style=for-the-badge&logo=vercel&logoColor=F5E8D0" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-B98746?style=for-the-badge&logo=vercel&logoColor=F5E8D0" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/girish-masade">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-B98746?style=for-the-badge&logo=linkedin&logoColor=F5E8D0" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-B98746?style=for-the-badge&logo=linkedin&logoColor=F5E8D0" alt="LinkedIn" />
   </a>
   <a href="mailto:girishmasade@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-B98746?style=for-the-badge&logo=gmail&logoColor=F5E8D0" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-B98746?style=for-the-badge&logo=gmail&logoColor=F5E8D0" alt="Email" />
   </a>
-</p>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=Girishmasade&label=PROFILE%20VIEWS&color=B98746&style=flat-square" alt="Profile views" />
 
 </div>
 
-01 — About
+---
 
-<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+## 🚀 About Me
 
-I'm Girish Masade, a Full Stack Developer based in Mumbai, Maharashtra, India.
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
 
-I build end-to-end web applications with a focus on:
+I'm **Girish Masade**, a Full Stack Developer crafting production-grade applications from Mumbai. My focus spans end-to-end development with particular expertise in:
 
-Product-focused frontend engineering
+- **Frontend Engineering** — High-performance React interfaces with strong UX principles
+- **Backend Architecture** — Scalable REST APIs, microservices, and real-time systems
+- **Security & Auth** — JWT-based authentication, authorization, and secure data flows
+- **System Design** — Caching strategies, database optimization, and performance engineering
+- **Product Mindset** — Building for users, not just shipping features
 
-Scalable REST APIs and backend architecture
-
-Authentication, authorization, and secure data flows
-
-Real-time features and performance
-
-Clean, maintainable MERN applications
-
-I care about more than making an application work. The goal is to make it fast, understandable, maintainable, and useful.
+I believe in writing code that's not just functional, but maintainable, performant, and a pleasure to work with.
 
 <br clear="right" />
 
-02 — Current Focus
+---
 
-Focus
+## 🎯 What I'm Currently Focused On
 
-What I'm working on
+| **Full Stack** | **AI Engineering** | **Architecture** |
+|---|---|---|
+| Production MERN applications | LLM-powered workflows | API design & scalability |
+| **Frontend Excellence** | **Learning** | **DevOps** |
+| Responsive, performant UX | System design & Redis | Docker & deployment pipelines |
 
-⚡ Full Stack
+---
 
-Building production-oriented MERN applications
-
-🧠 AI Engineering
-
-Exploring LLM-powered application workflows and practical GenAI
-
-🏗️ Architecture
-
-API design, caching, queues, real-time systems, and scalable backend patterns
-
-🎨 Frontend
-
-Responsive interfaces with strong UX and component-driven architecture
-
-📚 Learning
-
-System design, Redis, WebSockets, and modern application architecture
-
-03 — Tech Stack
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-Frontend
-
+#### Frontend Ecosystem
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies" />
 
-Backend & APIs
-
+#### Backend & Servers
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies" />
 
-Databases & Infrastructure
-
+#### Databases & Caching
 <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" alt="Database technologies" />
 
-Tools
-
+#### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode&theme=dark" alt="Development tools" />
 
 </div>
 
-04 — Featured Projects
+---
+
+## 💼 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-💰 Personal Finance Tracking System
+### 💰 Personal Finance Tracking
+**Full-stack MERN application** for comprehensive financial management and analytics.
 
-A full-stack MERN application for managing income, expenses, budgets, and financial goals through a focused analytics dashboard.
+**What it does:**
+- Income & expense tracking with categorization
+- Budget goals with real-time tracking
+- Interactive financial visualizations
+- Responsive dashboard with analytics
 
-Highlights
-
-Income & expense tracking
-
-Budget goals and spending analytics
-
-Interactive financial charts
-
-Responsive dashboard experience
+**Stack:** React, Node.js, MongoDB, Chart.js
 
 </td>
 <td width="50%" valign="top">
 
-✅ Task Management System
+### ✅ Task Management System
+**Productivity platform** for team collaboration and work organization.
 
-A productivity-focused MERN application for creating, assigning, organizing, and tracking work across different task states.
+**What it does:**
+- Create, assign & prioritize tasks
+- Status-based workflow (To Do → In Progress → Done)
+- Real-time updates
+- Team collaboration features
 
-Highlights
-
-Create, assign & prioritize tasks
-
-To Do / In Progress / Done workflow
-
-Status-based organization
-
-Clean full-stack architecture
+**Stack:** React, Express, MongoDB, Socket.io
 
 </td>
 </tr>
@@ -133,36 +107,30 @@ Clean full-stack architecture
 <tr>
 <td width="50%" valign="top">
 
-💪 React Fitness App
+### 💪 Fitness Discovery App
+**Modern fitness platform** with exercise discovery and personalization.
 
-A modern fitness application for discovering exercises by category and muscle group with a responsive React interface.
+**What it does:**
+- Search & discover exercises
+- Filter by muscle group & difficulty
+- Category-based organization
+- Responsive mobile-first UI
 
-Highlights
-
-Exercise search
-
-Muscle-group filtering
-
-Category-based discovery
-
-Responsive UI with Tailwind CSS
+**Stack:** React, Tailwind CSS, REST API
 
 </td>
 <td width="50%" valign="top">
 
-📝 MERN Blog Platform
+### 📝 MERN Blog Platform
+**Full-featured blogging engine** with content management and community features.
 
-A full-stack blogging platform with authentication, content management, commenting, and a responsive reading experience.
+**What it does:**
+- JWT-based authentication
+- Create, edit & delete posts
+- Comment system
+- User profiles & following
 
-Highlights
-
-JWT authentication
-
-Create, edit & delete posts
-
-Comment system
-
-Responsive reader UI
+**Stack:** React, Express, MongoDB, JWT
 
 </td>
 </tr>
@@ -170,51 +138,53 @@ Responsive reader UI
 <tr>
 <td width="50%" valign="top">
 
-🎵 Learning Music Platform
+### 🎵 Music Learning Platform
+**Curated learning experience** for music education through modern web technology.
 
-A learning-focused platform for exploring curated music lessons through a clean, responsive Next.js interface.
+**What it does:**
+- Course discovery & browsing
+- Responsive navigation
+- Animated interactions
+- Clean content hierarchy
 
-Highlights
-
-Course discovery
-
-Responsive navigation
-
-Animated UI
-
-Modern Next.js architecture
+**Stack:** Next.js, React, Tailwind CSS
 
 </td>
 <td width="50%" valign="top">
 
-🔐 Next.js Authentication System
+### 🔐 Auth Foundation Suite
+**Production-ready authentication system** serving as the base for secure applications.
 
-A production-oriented authentication foundation covering registration, login, JWT-based sessions, and protected application routes.
+**What it does:**
+- User registration & login
+- JWT session management
+- Protected route guards
+- Role-based access control
 
-Highlights
-
-JWT authentication
-
-Protected routes
-
-Role-based guards
-
-Secure full-stack structure
+**Stack:** Next.js, Node.js, MongoDB, JWT
 
 </td>
 </tr>
 </table>
 
-05 — Engineering Principles
+---
 
-01  Solve the problem before optimizing the implementation.
-02  Keep components and services small enough to reason about.
-03  Treat authentication and data validation as first-class concerns.
-04  Cache deliberately — not everywhere.
-05  Prefer measurable performance improvements over premature optimization.
-06  Build interfaces for users, APIs for systems, and code for future maintainers.
+## 💡 Engineering Philosophy
 
-06 — GitHub Activity
+I follow these principles in every project:
+
+```
+1️⃣  Solve the problem BEFORE optimizing the code
+2️⃣  Keep components small and reason-able
+3️⃣  Treat auth & validation as core concerns, not afterthoughts
+4️⃣  Cache deliberately — not everywhere
+5️⃣  Optimize based on metrics, not hunches
+6️⃣  Build for users, APIs for systems, code for maintainers
+```
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -232,34 +202,36 @@ Secure full-stack structure
 
 </div>
 
-07 — Let's Connect
+---
+
+## 🤝 Let's Build Something Great
+
+I'm always interested in:
+- **Freelance/contract** full-stack work
+- **Startup collaborations** with ambitious goals
+- **Open-source** contributions
+- **Technical mentorship** and knowledge sharing
 
 <div align="center">
 
-If you're building something interesting, need a full-stack developer, or want to collaborate on a product, feel free to reach out.
-
-<br /><br />
-
 <a href="https://girishmasade-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-B98746?style=for-the-badge&logo=vercel&logoColor=F5E8D0" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-B98746?style=for-the-badge&logo=vercel&logoColor=F5E8D0" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/girish-masade">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-B98746?style=for-the-badge&logo=linkedin&logoColor=F5E8D0" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-B98746?style=for-the-badge&logo=linkedin&logoColor=F5E8D0" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:girishmasade@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Message-B98746?style=for-the-badge&logo=gmail&logoColor=F5E8D0" alt="Email" />
+  <img src="https://img.shields.io/badge/GMAIL-Drop%20a%20Message-B98746?style=for-the-badge&logo=gmail&logoColor=F5E8D0" alt="Email" />
 </a>
 
 <br /><br />
 
-<sub>“First, solve the problem. Then, write the code.”</sub>
+> **"First, solve the problem. Then, write the code."**
+
+*Last updated: August 2026 | Always learning, always building*
 
 </div>
-
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A6335,45:171513,100:0C0C0D&height=130&section=footer" />
-
-</div>
