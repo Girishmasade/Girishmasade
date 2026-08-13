@@ -4,14 +4,14 @@
 
 ### Architecting scalable web applications with clean code, strong design, and real-world impact.
 
-<div>
-  <a href="https://girishmasade-portfolio.vercel.app">
+<div style="margin: 20px 0;">
+  <a href="https://girishcoder.netlify.app" style="text-decoration: none; margin: 0 8px;">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-B98746?style=for-the-badge&logo=vercel&logoColor=F5E8D0" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/girish-masade">
+  <a href="https://www.linkedin.com/in/girish-masade" style="text-decoration: none; margin: 0 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-B98746?style=for-the-badge&logo=linkedin&logoColor=F5E8D0" alt="LinkedIn" />
   </a>
-  <a href="mailto:girishmasade@gmail.com">
+  <a href="mailto:girishmasade@gmail.com" style="text-decoration: none; margin: 0 8px;">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-B98746?style=for-the-badge&logo=gmail&logoColor=F5E8D0" alt="Email" />
   </a>
 </div>
@@ -24,29 +24,59 @@
 
 ## 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+<table style="width:100%; border: none; background: transparent;">
+<tr style="border: none;">
+<td style="border: none; padding-right: 20px; vertical-align: top; width: 60%;">
 
-I'm **Girish Masade**, a Full Stack Developer crafting production-grade applications from Mumbai. My focus spans end-to-end development with particular expertise in:
+I'm **Girish Masade**, a Full Stack Developer crafting production-grade applications from Mumbai with meticulous attention to quality and user experience.
 
+**Core Expertise:**
 - **Frontend Engineering** — High-performance React interfaces with strong UX principles
-- **Backend Architecture** — Scalable REST APIs, microservices, and real-time systems
+- **Backend Architecture** — Scalable REST APIs, microservices, and real-time systems  
 - **Security & Auth** — JWT-based authentication, authorization, and secure data flows
 - **System Design** — Caching strategies, database optimization, and performance engineering
 - **Product Mindset** — Building for users, not just shipping features
 
 I believe in writing code that's not just functional, but maintainable, performant, and a pleasure to work with.
 
-<br clear="right" />
+</td>
+<td style="border: none; vertical-align: top; width: 40%;">
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 What I'm Currently Focused On
+## 🎯 Current Focus
 
-| **Full Stack** | **AI Engineering** | **Architecture** |
-|---|---|---|
-| Production MERN applications | LLM-powered workflows | API design & scalability |
-| **Frontend Excellence** | **Learning** | **DevOps** |
-| Responsive, performant UX | System design & Redis | Docker & deployment pipelines |
+<div align="center">
+<table style="width: 100%; border: none; background: transparent;">
+<tr style="border: none;">
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 20px; background: rgba(138, 99, 53, 0.05); margin: 8px;">
+
+**Full Stack Development**
+
+Production MERN applications with focus on scalability and maintainability
+
+</td>
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 20px; background: rgba(138, 99, 53, 0.05); margin: 8px;">
+
+**AI Engineering**
+
+LLM-powered workflows and intelligent system design
+
+</td>
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 20px; background: rgba(138, 99, 53, 0.05); margin: 8px;">
+
+**System Architecture**
+
+Distributed systems, API design, and performance optimization
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -54,16 +84,16 @@ I believe in writing code that's not just functional, but maintainable, performa
 
 <div align="center">
 
-#### Frontend Ecosystem
+<h4>Frontend Ecosystem</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite&theme=dark" alt="Frontend technologies" />
 
-#### Backend & Servers
+<h4 style="margin-top: 20px;">Backend & Infrastructure</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies" />
 
-#### Databases & Caching
+<h4 style="margin-top: 20px;">Data & Persistence</h4>
 <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" alt="Database technologies" />
 
-#### Tools & Platforms
+<h4 style="margin-top: 20px;">Tools & Platforms</h4>
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode&theme=dark" alt="Development tools" />
 
 </div>
@@ -72,131 +102,191 @@ I believe in writing code that's not just functional, but maintainable, performa
 
 ## 💼 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 💰 Personal Finance Tracking
-**Full-stack MERN application** for comprehensive financial management and analytics.
+<table style="width: 100%; border-collapse: collapse; background: transparent;">
+<tr style="border: none;">
+<td style="width: 48%; border: none; padding: 12px; margin-bottom: 20px;">
 
-**What it does:**
-- Income & expense tracking with categorization
-- Budget goals with real-time tracking
-- Interactive financial visualizations
-- Responsive dashboard with analytics
+<div style="border: 1px solid #8A6335; border-radius: 12px; padding: 24px; background: rgba(138, 99, 53, 0.08); height: 100%;">
 
-**Stack:** React, Node.js, MongoDB, Chart.js
+#### 💰 Personal Finance Tracking
+**Full-stack MERN application** for comprehensive financial management
 
-</td>
-<td width="50%" valign="top">
+**Features:**
+- 📊 Income & expense categorization
+- 🎯 Budget goals with real-time tracking
+- 📈 Interactive financial visualizations
+- 📱 Responsive analytics dashboard
 
-### ✅ Task Management System
-**Productivity platform** for team collaboration and work organization.
+**Stack:** React | Node.js | MongoDB | Chart.js
 
-**What it does:**
-- Create, assign & prioritize tasks
-- Status-based workflow (To Do → In Progress → Done)
-- Real-time updates
-- Team collaboration features
-
-**Stack:** React, Express, MongoDB, Socket.io
+</div>
 
 </td>
-</tr>
+<td style="width: 48%; border: none; padding: 12px; margin-bottom: 20px;">
 
-<tr>
-<td width="50%" valign="top">
+<div style="border: 1px solid #8A6335; border-radius: 12px; padding: 24px; background: rgba(138, 99, 53, 0.08); height: 100%;">
 
-### 💪 Fitness Discovery App
-**Modern fitness platform** with exercise discovery and personalization.
+#### ✅ Task Management System
+**Productivity platform** for team collaboration and workflow
 
-**What it does:**
-- Search & discover exercises
-- Filter by muscle group & difficulty
-- Category-based organization
-- Responsive mobile-first UI
+**Features:**
+- 📋 Create, assign & prioritize tasks
+- 🔄 Status-based workflow automation
+- ⚡ Real-time updates
+- 👥 Team collaboration features
 
-**Stack:** React, Tailwind CSS, REST API
+**Stack:** React | Express | MongoDB | Socket.io
 
-</td>
-<td width="50%" valign="top">
-
-### 📝 MERN Blog Platform
-**Full-featured blogging engine** with content management and community features.
-
-**What it does:**
-- JWT-based authentication
-- Create, edit & delete posts
-- Comment system
-- User profiles & following
-
-**Stack:** React, Express, MongoDB, JWT
+</div>
 
 </td>
 </tr>
 
-<tr>
-<td width="50%" valign="top">
+<tr style="border: none;">
+<td style="width: 48%; border: none; padding: 12px; margin-bottom: 20px;">
 
-### 🎵 Music Learning Platform
-**Curated learning experience** for music education through modern web technology.
+<div style="border: 1px solid #8A6335; border-radius: 12px; padding: 24px; background: rgba(138, 99, 53, 0.08); height: 100%;">
 
-**What it does:**
-- Course discovery & browsing
-- Responsive navigation
-- Animated interactions
-- Clean content hierarchy
+#### 💪 Fitness Discovery App
+**Modern platform** for exercise discovery and fitness tracking
 
-**Stack:** Next.js, React, Tailwind CSS
+**Features:**
+- 🔍 Search & discover exercises
+- 🏋️ Filter by muscle group & difficulty
+- 📂 Category-based organization
+- 📱 Mobile-first responsive design
+
+**Stack:** React | Tailwind CSS | REST API
+
+</div>
 
 </td>
-<td width="50%" valign="top">
+<td style="width: 48%; border: none; padding: 12px; margin-bottom: 20px;">
 
-### 🔐 Auth Foundation Suite
-**Production-ready authentication system** serving as the base for secure applications.
+<div style="border: 1px solid #8A6335; border-radius: 12px; padding: 24px; background: rgba(138, 99, 53, 0.08); height: 100%;">
 
-**What it does:**
-- User registration & login
-- JWT session management
-- Protected route guards
-- Role-based access control
+#### 📝 MERN Blog Platform
+**Full-featured blogging engine** with content management
 
-**Stack:** Next.js, Node.js, MongoDB, JWT
+**Features:**
+- 🔐 JWT-based authentication
+- ✍️ Create, edit & delete posts
+- 💬 Comment system
+- 👤 User profiles & following
+
+**Stack:** React | Express | MongoDB | JWT
+
+</div>
+
+</td>
+</tr>
+
+<tr style="border: none;">
+<td style="width: 48%; border: none; padding: 12px; margin-bottom: 20px;">
+
+<div style="border: 1px solid #8A6335; border-radius: 12px; padding: 24px; background: rgba(138, 99, 53, 0.08); height: 100%;">
+
+#### 🎵 Music Learning Platform
+**Curated learning experience** for modern music education
+
+**Features:**
+- 📚 Course discovery & browsing
+- 🎯 Responsive navigation
+- ✨ Animated interactions
+- 📖 Clean content hierarchy
+
+**Stack:** Next.js | React | Tailwind CSS
+
+</div>
+
+</td>
+<td style="width: 48%; border: none; padding: 12px; margin-bottom: 20px;">
+
+<div style="border: 1px solid #8A6335; border-radius: 12px; padding: 24px; background: rgba(138, 99, 53, 0.08); height: 100%;">
+
+#### 🔐 Auth Foundation Suite
+**Production-ready authentication system** for secure applications
+
+**Features:**
+- 📝 User registration & login
+- 🔑 JWT session management
+- 🛡️ Protected route guards
+- 👑 Role-based access control
+
+**Stack:** Next.js | Node.js | MongoDB | JWT
+
+</div>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 💡 Engineering Philosophy
 
-I follow these principles in every project:
+<div align="center">
+<table style="width: 100%; border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); margin: 6px; width: 48%;">
 
-```
-1️⃣  Solve the problem BEFORE optimizing the code
-2️⃣  Keep components small and reason-able
-3️⃣  Treat auth & validation as core concerns, not afterthoughts
-4️⃣  Cache deliberately — not everywhere
-5️⃣  Optimize based on metrics, not hunches
-6️⃣  Build for users, APIs for systems, code for maintainers
-```
+**1️⃣ Problem-First Approach**
+
+Solve the problem BEFORE optimizing the code
+
+</td>
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); margin: 6px; width: 48%;">
+
+**2️⃣ Code Clarity**
+
+Keep components small and reason-able
+
+</td>
+</tr>
+<tr style="border: none;">
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); margin: 6px; width: 48%;">
+
+**3️⃣ Security as Foundation**
+
+Treat auth & validation as core concerns, not afterthoughts
+
+</td>
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); margin: 6px; width: 48%;">
+
+**4️⃣ Deliberate Caching**
+
+Cache strategically — not everywhere
+
+</td>
+</tr>
+<tr style="border: none;">
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); margin: 6px; width: 48%;">
+
+**5️⃣ Metrics-Driven**
+
+Optimize based on data, not hunches
+
+</td>
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); margin: 6px; width: 48%;">
+
+**6️⃣ Multi-Audience Code**
+
+Build for users, APIs for systems, code for maintainers
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<!-- <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Girishmasade&show_icons=true&hide_border=true&bg_color=0C0C0D&title_color=D7A85B&icon_color=B98746&text_color=E7E0D5&rank_icon=github" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girishmasade&layout=compact&langs_count=7&hide_border=true&bg_color=0C0C0D&title_color=D7A85B&text_color=E7E0D5" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Girishmasade&hide_border=true&background=0C0C0D&ring=D7A85B&fire=B98746&currStreakLabel=D7A85B&sideLabels=E7E0D5&dates=8B857C&currStreakNum=F1E5CF&sideNums=F1E5CF" alt="GitHub streak" /> -->
-
-<br />
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Girishmasade&bg_color=0C0C0D&color=D7A85B&line=B98746&point=F1E5CF&area=true&hide_border=true" alt="GitHub contribution graph" />
 
@@ -204,33 +294,63 @@ I follow these principles in every project:
 
 ---
 
-## 🤝 Let's Build Something Great
+## 🤝 Let's Build Together
 
-I'm always interested in:
-- **Freelance/contract** full-stack work
-- **Startup collaborations** with ambitious goals
-- **Open-source** contributions
-- **Technical mentorship** and knowledge sharing
+I'm actively seeking opportunities in:
 
 <div align="center">
+<table style="width: 100%; border: none; background: transparent;">
+<tr style="border: none;">
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); width: 30%; margin: 8px;">
 
-<a href="https://girishmasade-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-B98746?style=for-the-badge&logo=vercel&logoColor=F5E8D0" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/girish-masade">
-  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-B98746?style=for-the-badge&logo=linkedin&logoColor=F5E8D0" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:girishmasade@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-Drop%20a%20Message-B98746?style=for-the-badge&logo=gmail&logoColor=F5E8D0" alt="Email" />
+**💼 Freelance & Contract Work**
+
+Full-stack development with flexible engagement models
+
+</td>
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); width: 30%; margin: 8px;">
+
+**🚀 Startup Collaboration**
+
+Ambitious projects with high-impact potential
+
+</td>
+<td style="border: 1px solid #8A6335; border-radius: 8px; padding: 16px; background: rgba(138, 99, 53, 0.08); width: 30%; margin: 8px;">
+
+**📚 Open Source & Mentorship**
+
+Contributing to community and sharing knowledge
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center" style="margin: 30px 0;">
+
+<a href="https://girishcoder.netlify.app" style="text-decoration: none; margin: 0 8px;">
+  <img src="https://img.shields.io/badge/Portfolio-EXPLORE%20MY%20WORK-B98746?style=for-the-badge&logo=vercel&logoColor=F5E8D0" alt="Portfolio" />
 </a>
 
-<br /><br />
+<a href="https://www.linkedin.com/in/girish-masade" style="text-decoration: none; margin: 0 8px;">
+  <img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-B98746?style=for-the-badge&logo=linkedin&logoColor=F5E8D0" alt="LinkedIn" />
+</a>
+
+<a href="mailto:girishmasade@gmail.com" style="text-decoration: none; margin: 0 8px;">
+  <img src="https://img.shields.io/badge/Email-DROP%20A%20MESSAGE-B98746?style=for-the-badge&logo=gmail&logoColor=F5E8D0" alt="Email" />
+</a>
+
+</div>
+
+<div align="center" style="margin: 30px 0; font-size: 16px; color: #D7A85B;">
 
 > **"First, solve the problem. Then, write the code."**
 
-*Last updated: August 2026 | Always learning, always building*
+*Always learning, always building. Last updated: August 2026*
 
 </div>
 
