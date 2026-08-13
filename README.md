@@ -41,7 +41,111 @@ I believe in writing code that's not just functional, but maintainable, performa
 
 </td>
 <td style="border: none; vertical-align: top; width: 40%;">
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+<svg width="100%" viewBox="0 0 600 420" xmlns="http://www.w3.org/2000/svg" role="img" style="max-width: 300px;">
+  <title>Developer at dual monitors workspace</title>
+  <desc>Illustration of a developer working at dual computer monitors with a laptop, themed with warm gold and brown accents</desc>
+  
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#171513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0C0C0D;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="420" fill="url(#bgGradient)"/>
+  
+  <!-- Light accent wave at bottom -->
+  <path d="M 0 340 Q 150 320, 300 340 T 600 340 L 600 420 L 0 420 Z" fill="#1F1A15" opacity="0.6"/>
+  
+  <!-- Left Monitor Stand -->
+  <rect x="45" y="200" width="140" height="8" fill="#0C0C0D" rx="2"/>
+  <rect x="105" y="208" width="20" height="45" fill="#171513"/>
+  
+  <!-- Left Monitor Body -->
+  <rect x="45" y="80" width="140" height="120" fill="#171513" rx="3"/>
+  
+  <!-- Left Monitor Screen -->
+  <rect x="55" y="95" width="120" height="95" fill="#2D1E0F" rx="2"/>
+  
+  <!-- Left Monitor Screen Content (dashboard-like) -->
+  <line x1="65" y1="105" x2="155" y2="105" stroke="#8A6335" stroke-width="2"/>
+  <circle cx="75" cy="125" r="6" fill="#D7A85B" opacity="0.7"/>
+  <circle cx="95" cy="125" r="6" fill="#D7A85B" opacity="0.7"/>
+  <circle cx="115" cy="125" r="6" fill="#D7A85B" opacity="0.7"/>
+  <line x1="65" y1="140" x2="145" y2="140" stroke="#E7C27A" stroke-width="1" opacity="0.6"/>
+  <line x1="65" y1="150" x2="145" y2="150" stroke="#E7C27A" stroke-width="1" opacity="0.6"/>
+  <line x1="65" y1="160" x2="145" y2="160" stroke="#E7C27A" stroke-width="1" opacity="0.6"/>
+  <line x1="65" y1="170" x2="125" y2="170" stroke="#E7C27A" stroke-width="1" opacity="0.6"/>
+  
+  <!-- Right Monitor Stand -->
+  <rect x="415" y="200" width="140" height="8" fill="#0C0C0D" rx="2"/>
+  <rect x="475" y="208" width="20" height="45" fill="#171513"/>
+  
+  <!-- Right Monitor Body -->
+  <rect x="415" y="75" width="140" height="125" fill="#171513" rx="3"/>
+  
+  <!-- Right Monitor Screen -->
+  <rect x="425" y="90" width="120" height="100" fill="#2D1E0F" rx="2"/>
+  
+  <!-- Right Monitor Screen Content (interface elements) -->
+  <rect x="435" y="100" width="100" height="10" fill="#8A6335" opacity="0.5" rx="2"/>
+  <rect x="435" y="120" width="95" height="6" fill="#E7C27A" opacity="0.6" rx="1"/>
+  <rect x="435" y="135" width="95" height="6" fill="#E7C27A" opacity="0.6" rx="1"/>
+  <rect x="435" y="150" width="65" height="6" fill="#E7C27A" opacity="0.6" rx="1"/>
+  <rect x="435" y="165" width="95" height="6" fill="#D7A85B" opacity="0.7" rx="1"/>
+  
+  <!-- Laptop base -->
+  <ellipse cx="300" cy="295" rx="85" ry="35" fill="#171513"/>
+  
+  <!-- Laptop screen -->
+  <rect x="235" y="200" width="130" height="95" fill="#2D1E0F" rx="3"/>
+  <rect x="245" y="210" width="110" height="75" fill="#1A1410" rx="2"/>
+  
+  <!-- Laptop screen content -->
+  <line x1="255" y1="220" x2="345" y2="220" stroke="#D7A85B" stroke-width="1.5"/>
+  <circle cx="270" cy="240" r="5" fill="#E7C27A" opacity="0.6"/>
+  <circle cx="290" cy="240" r="5" fill="#E7C27A" opacity="0.6"/>
+  <line x1="255" y1="255" x2="335" y2="255" stroke="#8A6335" stroke-width="1" opacity="0.5"/>
+  <line x1="255" y1="265" x2="330" y2="265" stroke="#8A6335" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Laptop keyboard area -->
+  <rect x="235" y="295" width="130" height="25" fill="#0C0C0D" rx="2"/>
+  
+  <!-- Developer figure - sitting position -->
+  <!-- Head -->
+  <circle cx="210" cy="160" r="20" fill="#2D1F1A"/>
+  
+  <!-- Hair/Head top -->
+  <ellipse cx="210" cy="145" rx="22" ry="18" fill="#1A0F08"/>
+  
+  <!-- Shoulders -->
+  <ellipse cx="210" cy="200" rx="35" ry="25" fill="#171513"/>
+  
+  <!-- Arms -->
+  <!-- Left arm (reaching to left monitor) -->
+  <path d="M 180 200 Q 140 190, 120 220" stroke="#2D1F1A" stroke-width="16" fill="none" stroke-linecap="round"/>
+  
+  <!-- Right arm (reaching to keyboard) -->
+  <path d="M 240 200 Q 280 190, 300 260" stroke="#2D1F1A" stroke-width="16" fill="none" stroke-linecap="round"/>
+  
+  <!-- Hands -->
+  <circle cx="120" cy="220" r="8" fill="#8A6335"/>
+  <circle cx="300" cy="260" r="8" fill="#8A6335"/>
+  
+  <!-- Body -->
+  <ellipse cx="210" cy="245" rx="28" ry="40" fill="#0C0C0D" opacity="0.7"/>
+  
+  <!-- Mouse pad accent -->
+  <ellipse cx="380" cy="290" rx="45" ry="25" fill="#8A6335" opacity="0.2"/>
+  
+  <!-- Decorative accent lines (keyboard cables) -->
+  <path d="M 280 320 Q 320 330, 350 305" stroke="#8A6335" stroke-width="1.5" fill="none" opacity="0.5" stroke-dasharray="3,2"/>
+  
+  <!-- Subtle glow effect on monitors -->
+  <rect x="45" y="80" width="140" height="120" fill="#D7A85B" opacity="0.05" rx="3"/>
+  <rect x="415" y="75" width="140" height="125" fill="#D7A85B" opacity="0.05" rx="3"/>
+</svg>
 </td>
 </tr>
 </table>
